@@ -1,0 +1,84 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+main {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 68%;
+  margin: 175px;
+}
+.one {
+  background-color: #e28525;
+  padding: 55px;
+  width: 100%;
+}
+.one img {
+  padding-bottom: 35px;
+}
+.one h2 {
+  padding-bottom: 25px;
+  color: #feebc6;
+}
+.one blockquote {
+  padding-bottom: 55px;
+  color: #e8b273;
+}
+.one button {
+  border-radius: 20px;
+  padding: 15px;
+  border: none;
+  width: 65%;
+  color: #dbba9c;
+  cursor: pointer;
+}
+.two {
+  background-color: #016972;
+  padding: 55px;
+  width: 100%;
+}
+.two img {
+  padding-bottom: 35px;
+}
+.two h2 {
+  padding-bottom: 25px;
+  color: #bce6e7;
+}
+.two blockquote {
+  padding-bottom: 55px;
+  color: #72bfc3;
+}
+.two button {
+  border-radius: 20px;
+  padding: 15px;
+  border: none;
+  width: 65%;
+  color: #8eb2b4;
+  cursor: pointer;
+}
+.three {
+  background-color: #00403f;
+  padding: 55px;
+  width: 100%;
+}
+.three img {
+  padding-bottom: 35px;
+}
+.three h2 {
+  padding-bottom: 25px;
+  color: #c8e4e4;
+}
+.three blockquote {
+  padding-bottom: 55px;
+  color: #669b9a;
+}
+.three button {
+  border-radius: 20px;
+  padding: 15px;
+  border: none;
+  width: 65%;
+  color: #546e6c;
+  cursor: pointer;
+}
